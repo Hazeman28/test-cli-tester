@@ -1,0 +1,16 @@
+{
+  "name": "hazeman-test-cli",
+  "version": "1.1.0",
+  "description": "",
+  "main": "src/main.js",
+  "bin": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
+}
